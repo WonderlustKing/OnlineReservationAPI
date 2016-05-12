@@ -2,8 +2,10 @@
 A simple  restful API implementation about theater reservation.
 
 END POINTS:
+
 GET method:
 /server_url/serverJsonReply.php?theatro={theater_name} ----> Returns all performances of that theater(theater_name)
+
 /server_url/serverJsonReply.php?theatro={theater_name}&parastasi={performance_name} ----> Returns avaliable seats of performance(performance_name)
 
 POST method:
