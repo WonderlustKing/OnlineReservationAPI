@@ -1,5 +1,5 @@
 # OnlineReservationAPI
-A very simple  restful API implementation about theater reservation.
+A very simple  restful API implementation about theater reservation in PHP.
 
 END POINTS:
 
